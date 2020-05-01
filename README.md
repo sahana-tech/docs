@@ -3,11 +3,11 @@ This is a repository containing technical knowledge about cloud, devops, languag
 
 Technical Knowledge
 
-* apple
-* bananas
-
-*How are you*
-
-**How are you**
+* [Basics] (basics/README.md)
+* [DevOps] (devops/README.md)
+* [Cloud] (cloud/README.md)
+* [Operating Systems] (operating-systems/README.md)
+* [Languages] (languages/README.md)
+* [Databases] (databases/README.md)
 
 
